@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1699328788,,"wq!"
+|2,0,1699329144,,"wq!"
 :q!
 |2,0,1699328743,,"q!"
 
@@ -27,16 +27,26 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/index.html
-|4,48,6,0,1699328788,"~/index.html"
-'1  4  4  ~/index.html
-|4,49,4,4,1699328034,"~/index.html"
-'2  4  4  ~/index.html
-|4,50,4,4,1699328034,"~/index.html"
-'3  2  1  ~/myfirstrepo/index.html
-|4,51,2,1,1699326067,"~/myfirstrepo/index.html"
+'0  4  4  ~/index.html
+|4,48,4,4,1699329144,"~/index.html"
+'1  5  0  ~/index.html
+|4,49,5,0,1699328788,"~/index.html"
+'2  6  0  ~/index.html
+|4,50,6,0,1699328788,"~/index.html"
+'3  4  4  ~/index.html
+|4,51,4,4,1699328034,"~/index.html"
+'4  4  4  ~/index.html
+|4,52,4,4,1699328034,"~/index.html"
+'5  4  4  ~/index.html
+|4,53,4,4,1699328034,"~/index.html"
+'6  2  1  ~/myfirstrepo/index.html
+|4,54,2,1,1699326067,"~/myfirstrepo/index.html"
 
 # Jumplist (newest first):
+-'  4  4  ~/index.html
+|4,39,4,4,1699329144,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1699329092,"~/index.html"
 -'  6  0  ~/index.html
 |4,39,6,0,1699328788,"~/index.html"
 -'  4  4  ~/index.html
@@ -51,6 +61,8 @@
 |4,39,1,0,1699328013,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1699328013,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1699328013,"~/index.html"
 -'  2  1  ~/myfirstrepo/index.html
 |4,39,2,1,1699326067,"~/myfirstrepo/index.html"
 -'  2  1  ~/myfirstrepo/index.html
@@ -67,6 +79,38 @@
 |4,39,2,1,1699326067,"~/myfirstrepo/index.html"
 -'  2  1  ~/myfirstrepo/index.html
 |4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  2  1  ~/myfirstrepo/index.html
+|4,39,2,1,1699326067,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
+-'  1  0  ~/myfirstrepo/index.html
+|4,39,1,0,1699326049,"~/myfirstrepo/index.html"
 -'  1  0  ~/myfirstrepo/index.html
 |4,39,1,0,1699326049,"~/myfirstrepo/index.html"
 -'  1  0  ~/myfirstrepo/index.html
@@ -87,12 +131,14 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1699328778	0
-	"	6	0
-	^	6	0
-	.	5	3
+	*	1699329137	0
+	"	4	4
+	^	4	5
+	.	5	0
 	+	4	5
-	+	5	3
+	+	4	8
+	+	8	8
+	+	5	0
 
 > ~/myfirstrepo/index.html
 	*	1699326061	0
